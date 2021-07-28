@@ -8,4 +8,15 @@ My coding expertises are:
   - Machine Learning
   - Data Visualizations
 
+My workfield skills include:
+  - Constant grit and determination
+  - Creative and outside-the-box thinking
+  - Communication and listening skills
+
+My passions in the field include:
+  - Developing a new field with ML
+  - Making a aspect of life easier or better with ML
+  - Helping out a company increase its performance with Data Science
+  - Making something unique and creative
+
 If you want to contact me, you can email: marcosmorales2011@gmail.com
