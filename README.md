@@ -25,16 +25,16 @@ My technical skills :iphone: include:
 _________________________________________________________________________________________________________________________________________________________________________________
 
 My workfield skills :incoming_envelope: include:
-  - Constant grit and determination
-  - Creative and outside-the-box thinking
-  - Communication and listening skills
+  - Constant grit and determination :hourglass:
+  - Creative and outside-the-box thinking :bulb:
+  - Communication and listening skills :grinning:
 _________________________________________________________________________________________________________________________________________________________________________________
 
 My passions in the field:headphones: include:
-  - Developing a new field with ML
-  - Making a aspect of life easier or better with ML
-  - Helping out a company increase its performance with Data Science
-  - Making something unique and creative
+  - Developing a new field with ML :mortar_board:
+  - Making a aspect of life easier or better with ML :hospital:
+  - Helping out a company increase its performance with Data Science :chart_with_upwards_trend:
+  - Making something unique and creative :unlock:
 _________________________________________________________________________________________________________________________________________________________________________________
 
 If you want to contact me inbox_tray:, you can email: marcosmorales2011@gmail.com
