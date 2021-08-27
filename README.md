@@ -37,4 +37,4 @@ My passions in the field:headphones: include:
   - Making something unique and creative :unlock:
 _________________________________________________________________________________________________________________________________________________________________________________
 
-If you want to contact me inbox_tray:, you can email: marcosmorales2011@gmail.com
+If you want to contact me :inbox_tray:, you can email: marcosmorales2011@gmail.com
