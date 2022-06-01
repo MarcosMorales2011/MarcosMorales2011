@@ -1,11 +1,11 @@
 ### Welcome to my Github! :loudspeaker:
 
-I'm Marcos morales. A Guatemalan Data Scientist currently located in San Antonio, Texas. I've always had an extrmee passion for Data Science, Data Analytics, and Machine Learning, and you will usually find me working on something in that field!
+I'm Marcos morales. A Senior Web Developer currently located in San Antonio, Texas. I've always had an extreme passion for Web application, Mobile application, BlockChain development, and Machine Learning, and you will usually find me working on something in that field!
 _________________________________________________________________________________________________________________________________________________________________________________
 
 My coding expertises :computer: are:
-  - Data Science
-  - Data Analytics
+  - Web Applications
+  - Mobile Applications
   - Machine Learning
   - Data Visualizations
 
